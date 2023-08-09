@@ -9,5 +9,5 @@ Day-02
  -  -Social Engineering
  -  -Man-In-The-Middle Attack
  -  -Zero-day attack
-   -HACKING
-   -ETHICAL HACKER
+ HACKING
+ ETHICAL HACKER
