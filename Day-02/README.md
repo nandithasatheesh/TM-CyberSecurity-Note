@@ -1,0 +1,13 @@
+Day-02
+ - Syllabus
+ - Introduction to Cybersecurity
+ - CYBERSECURITY: is the practice of protecting systems, networks, and programs from digital attacks. These cyber-attacks are usually aimed at accessing, changing or distroying sensitive information.
+ - -Types of Cybersecurity threats
+ -  -Phishing
+ -  -Ransomware
+ -  -Malware
+ -  -Social Engineering
+ -  -Man-In-The-Middle Attack
+ -  -Zero-day attack
+   -HACKING
+   -ETHICAL HACKER
